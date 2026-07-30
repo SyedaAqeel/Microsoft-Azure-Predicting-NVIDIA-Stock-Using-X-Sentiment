@@ -5,15 +5,15 @@ This project builds a fully automated, self-retraining pipeline that ingests twe
 
 ## Course
 
-DS598 Big Data Engineering
-Boston University 
+* DS598 Big Data Engineering
+* Boston University 
 
 
 **Team:** 
 
-*Syeda Aqeel
-*Yuchen Li
-*Hsiang Yu Huang
+* Syeda Aqeel
+* Yuchen Li
+* Hsiang Yu Huang
 
 
 ## Overview
@@ -24,7 +24,7 @@ Social sentiment on X moves fast, and financial markets increasingly respond to 
 ## Architecture
 
 <p align="center">
-  <img src="Workflow" width="75%">
+  <img src="Workflow.png" width="75%">
 </p>
 
 
