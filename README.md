@@ -27,7 +27,7 @@ Social sentiment on X moves fast, and financial markets increasingly respond to 
 </p>
 
 
-## Data Sources
+## Dataset
 
 | Data | Source | 
 |---|---|
