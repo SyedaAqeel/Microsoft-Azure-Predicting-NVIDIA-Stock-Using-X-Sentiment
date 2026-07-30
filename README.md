@@ -35,15 +35,6 @@ Social sentiment on X moves fast, and financial markets increasingly respond to 
 | **Stock Data** | Yahoo Finance |
 
 
-## Key Findings
-
-- Trading volume showed a much stronger, more interpretable correlation with sentiment/engagement than price did — validating the choice of volume as the prediction target.
-- The DeepSeek launch triggered a clear sentiment-driven volume spike, with recovery as sentiment shifted — evidence that sentiment can lead market activity.
-- Tweets from blue-verified accounts drove disproportionately higher engagement, suggesting credibility-weighted sentiment could improve future models.
-- "Favorites" was the dominant engagement signal (vs. retweets/replies), and likely the cleaner proxy for approval/sentiment resonance.
-- NVDA tweets frequently co-mentioned other tech tickers (TSLA, AMD, MSFT), hinting at cross-stock sentiment spillover.
-
-
 ## References
 
 1. Patel & Bhesaniya, "Analysis and Prediction of Stock Market Using Twitter Sentiment and DNN," ResearchGate, 2019.
