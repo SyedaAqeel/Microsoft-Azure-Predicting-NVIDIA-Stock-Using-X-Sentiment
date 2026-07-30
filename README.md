@@ -23,7 +23,7 @@ Social sentiment on X moves fast, and financial markets increasingly respond to 
 ## Architecture
 
 <p align="center">
-  <img src="Workflow.png" width="75%">
+  <img src="Workflow.png">
 </p>
 
 
