@@ -44,23 +44,6 @@ Social sentiment on X moves fast, and financial markets increasingly respond to 
 - NVDA tweets frequently co-mentioned other tech tickers (TSLA, AMD, MSFT), hinting at cross-stock sentiment spillover.
 
 
-## Challenges & Optimizations
-
-- **Data skew:** engagement metrics were heavily right-skewed; addressed with log transforms and scaling.
-- **SQL pool cost:** dedicated Synapse SQL pools bill for idle compute; solved with an automated resume/pause orchestration around refresh windows.
-- **Opaque API pagination:** RapidAPI's cursor never signals exhaustion; solved with a custom `Until`-loop that inspects the response body to detect completion.
-- **Retraining threshold tuning:** a 1% relative error threshold balanced responsiveness against overfitting/excessive retraining.
-
-
-## Future Work
-
-- Incorporate weekend tweets to improve Monday volume predictions.
-- Use total NVDA tweet volume (if accessible) as an additional feature.
-- Add anomaly detection for unusual tweet or trading patterns.
-- Extend to multiple tickers for broader market coverage.
-- Explore more advanced NLP models for deeper sentiment/context understanding.
-
-
 ## References
 
 1. Patel & Bhesaniya, "Analysis and Prediction of Stock Market Using Twitter Sentiment and DNN," ResearchGate, 2019.
