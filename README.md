@@ -17,7 +17,7 @@ This project builds a fully automated, self-retraining pipeline that ingests twe
 
 ## Overview
 
-Social sentiment on X moves fast, and financial markets increasingly respond to it in real time. Rather than trying to predict the notoriously volatile stock price, this project predicts NVIDIA's next-day trading volume, a target that correlates more reliably with public sentiment and engagement metrics. Potential use cases include algorithmic trading signals, market risk monitoring, investor relations, and influencer/marketing analysis. See the full report for a detailed discussion of business applications.
+Social sentiment on X moves fast, and financial markets increasingly respond to it in real time. Rather than trying to predict the notoriously volatile stock price, this project predicts NVIDIA's next-day trading volume, a target that correlates more reliably with public sentiment and engagement metrics. Potential use cases include algorithmic trading signals, market risk monitoring, investor relations, and influencer/marketing analysis.
 
 
 ## Architecture
