@@ -27,22 +27,4 @@ Social sentiment on X moves fast, and financial markets increasingly respond to 
 </p>
 
 
-## Dataset
-
-| Data | Source | 
-|---|---|
-| **X/Twitter** | RapidAPI Twitter V2 | 
-| **Stock Data** | Yahoo Finance |
-
-
-## References
-
-1. Patel & Bhesaniya, "Analysis and Prediction of Stock Market Using Twitter Sentiment and DNN," ResearchGate, 2019.
-2. Tripathy et al., "Stock Market Prediction Using Twitter Sentiment Analysis," ResearchGate, 2021.
-3. Ranco et al., "The Effects of Twitter Sentiment on Stock Price Returns," ResearchGate, 2015.
-4. Salas-Zárate et al., "Stock Market Forecasting Using Sentiment Analysis: A Review," *Electronics*, 2022.
-5. Prabhu, "Machine Learning for Stock Trading: Unsupervised Learning Techniques," Analytics Vidhya, 2019.
-6. Bollen et al., "Twitter Mood Predicts the Stock Market," *Procedia Computer Science*, 2010.
-7. Atef, "Stock Market Prediction Using Sentiment Analysis of Twitter," GitHub.
-8. Microsoft Learn, "Pause and Resume Dedicated SQL Pools Using Pipelines in Azure Synapse Analytics."
 
