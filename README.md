@@ -1,6 +1,13 @@
 # From Tweets to Trends: Predicting Stock Prices Using X Sentiment
 
-This project builds a fully automated, self-retraining pipeline that ingests tweets and stock data, engineers sentiment and engagement features, trains a volume-prediction model, and surfaces daily results through a Power BI dashboard — all orchestrated on Azure with a daily feedback loop.
+Predicting stock prices from social media is inherently difficult because prices are influenced by many factors beyond public sentiment. Instead, this project focuses on forecasting NVIDIA's next-day trading volume, which provides a more stable measure of investor interest and market activity. To accomplish this, an automated analytics pipeline was built on Microsoft Azure that ingests X (Twitter) and financial data, extracts sentiment and engagement features, trains a machine learning model, and visualizes daily predictions in Power BI. The resulting solution combines cloud data engineering and machine learning into a reproducible workflow for exploring how online discussions relate to trading activity.
+
+
+## Architecture
+
+<p align="center">
+  <img src="Workflow.png">
+</p>
 
 
 ## Course
@@ -15,16 +22,10 @@ This project builds a fully automated, self-retraining pipeline that ingests twe
 * Hsiang Yu Huang
 
 
-## Overview
-
-Social sentiment on X moves fast, and financial markets increasingly respond to it in real time. Rather than trying to predict the notoriously volatile stock price, this project predicts NVIDIA's next-day trading volume, a target that correlates more reliably with public sentiment and engagement metrics. Potential use cases include algorithmic trading signals, market risk monitoring, investor relations, and influencer/marketing analysis.
 
 
-## Architecture
 
-<p align="center">
-  <img src="Workflow.png">
-</p>
+
 
 
 
