@@ -5,11 +5,10 @@ This project builds a fully automated, self-retraining pipeline that ingests twe
 
 ## Course
 
-* DS598 Big Data Engineering
-* Boston University 
+* DS598 Big Data Engineering - Boston University 
 
 
-**Team:** 
+## Team:
 
 * Syeda Aqeel
 * Yuchen Li
