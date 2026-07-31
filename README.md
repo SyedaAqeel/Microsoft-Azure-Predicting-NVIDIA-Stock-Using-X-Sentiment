@@ -12,7 +12,7 @@ Predicting stock prices from social media is inherently difficult because prices
 
 ## Course
 
-DS598 - Big Data Engineering<br>  
+DS598 - Big Data Engineering<br>
 Boston University 
 
 
