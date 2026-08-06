@@ -6,7 +6,7 @@ Predicting stock prices from social media is inherently difficult because prices
 ## Architecture
 
 <p align="center">
-  <img src="Workflow.png">
+  <img src="workflow.png">
 </p>
 
 
